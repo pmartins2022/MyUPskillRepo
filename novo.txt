@@ -1,0 +1,16 @@
+CentroComercial ; NOME ; Mega ; MORADA ; Mega Rua
+<------------- VALORES COMUNS ENTRE LOJAS DO MESMO TIPO ------------------>
+LojaAreaPequeno ; 25
+LojaAreaGrande ; 100
+RendaFixaAncoraExterna ; 1500.00
+RendaQuiosques ; 250.00
+RendaFixaRestaurante ; 700.00
+ValorMesaRestaurante ; 7.50
+<------------- LOJAS DESTE CENTRO COMERCIAL ------------------>
+AncoraExterna   ; ID ;    0 ; NOME ;          Ola ; AREA ;  100 ; RECEITAS ;   20000.00 ; NUMERO FUNCIONARIOS ;   0 ; CUSTO SEGURANCA ;  0.00
+LojaQuiosque    ; ID ;    1 ; NOME ;     Revistas ; AREA ;   35 ; RECEITAS ;   10000.00 ; NUMERO FUNCIONARIOS ;   2
+LojaRestauracao ; ID ;    3 ; NOME ; Hamburgueres ; AREA ;  250 ; RECEITAS ;   45000.00 ; NUMERO FUNCIONARIOS ;  12 ; NUMERO MESAS ; 20 ; CUSTO MANUTENCAO ; 350.00
+LojaQuiosque    ; ID ;    4 ; NOME ;       coisas ; AREA ;  150 ; RECEITAS ;     500.00 ; NUMERO FUNCIONARIOS ;   2
+AncoraPropria   ; ID ;   19 ; NOME ;      Propria ; AREA ;   50 ; RECEITAS ;   23500.00 ; CUSTO SEGURANCA ; 234.00
+AncoraExterna   ; ID ;   22 ; NOME ;        outra ; AREA ;  400 ; RECEITAS ;    5500.00 ; NUMERO FUNCIONARIOS ;   5 ; CUSTO SEGURANCA ; 250.00
+LojaRestauracao ; ID ;   23 ; NOME ;         rest ; AREA ;  200 ; RECEITAS ;     150.00 ; NUMERO FUNCIONARIOS ;  25 ; NUMERO MESAS ; 10 ; CUSTO MANUTENCAO ; 1500.00

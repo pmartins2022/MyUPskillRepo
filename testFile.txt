@@ -1,0 +1,14 @@
+CentroComercial ; NOME ; Shopping ; MORADA ; ola
+<------------- VALORES COMUNS ENTRE LOJAS DO MESMO TIPO ------------------>
+LojaAreaPequeno ; 40
+LojaAreaGrande ; 500
+RendaFixaAncoraExterna ; 123.00
+RendaQuiosques ; 20.00
+RendaFixaRestaurante ; 750.00
+ValorMesaRestaurante ; 10.00
+<------------- LOJAS DESTE CENTRO COMERCIAL ------------------>
+LojaRestauracao ; ID ; 5545 ; NOME ;           pp ; AREA ;   40 ; RECEITAS ;     500.20 ; NUMERO FUNCIONARIOS ;  10 ; NUMERO MESAS ; 10 ; CUSTO MANUTENCAO ; 10.00
+AncoraExterna   ; ID ; 5546 ; NOME ;         loja ; AREA ;  150 ; RECEITAS ;    1500.00 ; NUMERO FUNCIONARIOS ;  20 ; CUSTO SEGURANCA ; 300.00
+LojaQuiosque    ; ID ; 5547 ; NOME ;        lojaQ ; AREA ;  100 ; RECEITAS ;      50.00 ; NUMERO FUNCIONARIOS ;  80
+AncoraPropria   ; ID ; 5548 ; NOME ; super ancora ; AREA ;  200 ; RECEITAS ;    1424.34 ; CUSTO SEGURANCA ; 283.50
+AncoraExterna   ; ID ; 5549 ; NOME ;     sem nome ; AREA ;    0 ; RECEITAS ;       0.00 ; NUMERO FUNCIONARIOS ;   0 ; CUSTO SEGURANCA ;  0.00

@@ -1,0 +1,12 @@
+CentroComercial ; NOME ; MegaShopping ; MORADA ; Rua das Flores
+<------------- VALORES COMUNS ENTRE LOJAS DO MESMO TIPO ------------------>
+LojaAreaPequeno ; 40
+LojaAreaGrande ; 500
+RendaFixaAncoraExterna ; 123.00
+RendaQuiosques ; 20.00
+RendaFixaRestaurante ; 750.00
+ValorMesaRestaurante ; 10.00
+<------------- LOJAS DESTE CENTRO COMERCIAL ------------------>
+LojaQuiosque    ; ID ;    8 ; NOME ; cigarrilhas ; AREA ;   30 ; RECEITAS ;   12000.00 ; NUMERO FUNCIONARIOS ;   3
+LojaQuiosque    ; ID ;    9 ; NOME ; raspadinhas ; AREA ;   30 ; RECEITAS ;  120000.00 ; NUMERO FUNCIONARIOS ;   3
+AncoraPropria   ; ID ; 5452 ; NOME ;      baloes ; AREA ;  100 ; RECEITAS ;    5000.00 ; CUSTO SEGURANCA ; 750.00

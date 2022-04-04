@@ -1,0 +1,23 @@
+LojaAreaPequeno ; 40
+
+<--> ; <-FICHEIRO<<-56> ; - COM- ; ERROS->>>>>
+AncoraPropria   ; ID ;   1 ; NOME ; animais     ; AREA ;   6660-RECEITAS ;   10760.00 ; CUSTO SEGURANCA ; 1000.00
+
+Anc643364364 ; ID ;   22 ; NOME ; cafe        ; 0 3
+AncoraPropria   ; ID ;   5452 ; NOME ; baloes      ; AREA ;  100   ; RECEITAS ;    5000.00 ; CUSTO SEGURANCA ; 750.00
+CentroComercial ; NOME ; cent
+<<<<<<<<<<<<<<<<<<<<<<OLA
+AncoraExteID ;   3 ; NOME ; barcos      ; AREA ;  240 ; RECEITAS ;   18000.00 ; NUMERO FUNCIONARIOS ;   7 ; CUSTO SEGURANCA ; 1500.00
+LojaRestauracao ; ID ;   4 ; NOME ; mac         ; AREA ;   19 ; RECEITAS ;   20000.00 ; NUSE0 FUNCIONARIgdUMERO MESAS ; 12 ; CUSTO MANUTENCAO ; 2000.00
+LojaRestauracao ; ID ;   64 ; NOndy    66   ; AREA ;  200 ; RECEITAS ;  250000.00 ; NUMERO FUNCIONARIOS ;  36 ; NUMERO MESAS ; 21 ; CUSTO MANUTENCAO ; 150
+RendaFixaRestaurante ; 750.00
+LojaRestauracao ; ID ;   7 ; NOME ; taco        -AREA-   50 ;          RECEITAS ;    1000.00 ; NUMERO FUNCIONARIOS ;   5 ; NUMERO MESAS ;  4 ; CUSTO MANUTENCAO ; 1100.00
+CentroComercial ; NOME ; MegaShopping ; MORADA ; Rua das Flores
+22222222222222
+CentroComercial ; LojaAreaGrande ; 500
+RendaQuiosques ; 20.00 ; 1234
+ValorMesaRestaurante ; 10.00
+LojaQuiosque    ; ID ;   8 ; NOME ; cigarrilhas ; AREA ;   30 ; RECEITAS ;   12000.00 ; NUMERO FUNCIONARIOS ;   3
+LojaQuiosque    ; ID ;   9 ; NOME ; raspadinhas ; AREA ;   30 ; RECEITAS ;  120000.00 ; NUMERO FUNCIONARIOS ;   3
+RendaFna ; 123.00
+LojaQuiosqueFFFFF    ; ID ;  10 ; NOME ; jornais     ; AREA ;   12 ; RECEITAS ;    8000.00 ; NUMERO FUNCIONARIOS ;     3

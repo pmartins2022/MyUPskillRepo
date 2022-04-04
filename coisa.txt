@@ -1,0 +1,13 @@
+CentroComercial ; NOME ; Shopping ; MORADA ; Rua das Flores
+<------------- VALORES COMUNS ENTRE LOJAS DO MESMO TIPO ------------------>
+LojaAreaPequeno ; 20
+LojaAreaGrande ; 100
+RendaFixaAncoraExterna ; 2000.00
+RendaQuiosques ; 200.00
+RendaFixaRestaurante ; 700.00
+ValorMesaRestaurante ; 5.00
+<------------- LOJAS DESTE CENTRO COMERCIAL ------------------>
+AncoraExterna   ; ID ;    0 ; NOME ;      Ancora ; AREA ;  100 ; RECEITAS ;    4000.00 ; NUMERO FUNCIONARIOS ;  10 ; CUSTO SEGURANCA ; 150.00
+AncoraPropria   ; ID ;    1 ; NOME ;     Propria ; AREA ;  400 ; RECEITAS ;   10000.00 ; CUSTO SEGURANCA ; 500.00
+LojaQuiosque    ; ID ;    2 ; NOME ;    Quiosque ; AREA ;   50 ; RECEITAS ;   10000.00 ; NUMERO FUNCIONARIOS ;  10
+LojaRestauracao ; ID ;    3 ; NOME ; Restaurante ; AREA ; 1000 ; RECEITAS ;   25000.00 ; NUMERO FUNCIONARIOS ;  50 ; NUMERO MESAS ; 20 ; CUSTO MANUTENCAO ; 1000.00

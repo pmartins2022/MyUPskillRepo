@@ -1,0 +1,19 @@
+CentroComercial ; NOME ; centro ; MORADA ; rua
+<------------- VALORES COMUNS ENTRE LOJAS DO MESMO TIPO ------------------>
+LojaAreaPequeno ; 20
+LojaAreaGrande ; 100
+RendaFixaAncoraExterna ; 2000.00
+RendaQuiosques ; 250.00
+RendaFixaRestaurante ; 700.00
+ValorMesaRestaurante ; 7.00
+<------------- LOJAS DESTE CENTRO COMERCIAL ------------------>
+AncoraPropria   ; ID ;    0 ; NOME ;        cafe ; AREA ;   20 ; RECEITAS ;    6000.00 ; CUSTO SEGURANCA ; 500.00
+AncoraPropria   ; ID ;    1 ; NOME ;     animais ; AREA ;   60 ; RECEITAS ;   10000.00 ; CUSTO SEGURANCA ; 1000.00
+AncoraPropria   ; ID ;    2 ; NOME ;      baloes ; AREA ;  100 ; RECEITAS ;    5000.00 ; CUSTO SEGURANCA ; 750.00
+LojaRestauracao ; ID ;    4 ; NOME ;         mac ; AREA ;   19 ; RECEITAS ;   20000.00 ; NUMERO FUNCIONARIOS ;  14 ; NUMERO MESAS ;  7 ; CUSTO MANUTENCAO ; 1500.00
+LojaRestauracao ; ID ;    5 ; NOME ;          bk ; AREA ;  909 ; RECEITAS ;   27000.00 ; NUMERO FUNCIONARIOS ;  20 ; NUMERO MESAS ; 12 ; CUSTO MANUTENCAO ; 2000.00
+LojaRestauracao ; ID ;    6 ; NOME ;       wendy ; AREA ;  200 ; RECEITAS ;  250000.00 ; NUMERO FUNCIONARIOS ;  36 ; NUMERO MESAS ; 21 ; CUSTO MANUTENCAO ; 15000.00
+LojaRestauracao ; ID ;    7 ; NOME ;        taco ; AREA ;   50 ; RECEITAS ;    1000.00 ; NUMERO FUNCIONARIOS ;   5 ; NUMERO MESAS ;  4 ; CUSTO MANUTENCAO ; 1100.00
+LojaQuiosque    ; ID ;    8 ; NOME ; cigarrilhas ; AREA ;   30 ; RECEITAS ;   12000.00 ; NUMERO FUNCIONARIOS ;   3
+LojaQuiosque    ; ID ;    9 ; NOME ; raspadinhas ; AREA ;   30 ; RECEITAS ;  120000.00 ; NUMERO FUNCIONARIOS ;   3
+LojaQuiosque    ; ID ;   10 ; NOME ;     jornais ; AREA ;   12 ; RECEITAS ;    8000.00 ; NUMERO FUNCIONARIOS ;   3
